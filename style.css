@@ -1,0 +1,43 @@
+body {
+  background-color: aquamarine;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  color: gold;
+}
+/* styles about page table with links using class*/
+.links {
+  color: purple;
+}
+
+a {
+  color: hotpink;
+}
+/* styles page nav links at top of every page*/
+#pages {
+  background-color: gray;
+}
+
+input {
+  border-radius: 8px;
+}
+
+img {
+  border-radius: 8px;
+}
+
+table {
+  background-color: gray;
+}
+
+ol {
+  background-color: gray;
+}
